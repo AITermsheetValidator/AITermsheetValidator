@@ -1,0 +1,40 @@
+Question 1: What is the name of the company mentioned in the term sheet?
+Question 2: Who are the investors or parties involved in the term sheet?
+Question 3: What is the pre-money valuation of the company?
+Question 4: What is the amount of investment being made?
+Question 5: What is the type of security being issued (e.g., equity, convertible note, SAFE)?
+Question 6: What is the price per share or valuation cap mentioned?
+Question 7: What are the liquidation preferences of the investors?
+Question 8: What are the voting rights of the investors?
+Question 9: What are the anti-dilution provisions included in the term sheet?
+Question 10: What are the terms related to board composition and governance?
+Question 11: What are the founder vesting terms?
+Question 12: What are the terms related to drag-along and tag-along rights?
+Question 13: What are the conditions for the right of first refusal (ROFR)?
+Question 14: What are the terms regarding information rights granted to investors?
+Question 15: What are the terms regarding exclusivity and confidentiality?
+Question 16: What are the conditions for closing and timelines for execution?
+Question 17: What are the provisions regarding future financing rounds?
+Question 18: What is the duration of any lock-up period post-IPO?
+Question 19: Are there any protective provisions that require investor consent?
+Question 20: What are the terms regarding exit strategy and liquidity events?
+Question 21: Are there any restrictions on the transfer of shares?
+Question 22: What are the terms regarding dispute resolution and governing law?
+Question 23: What happens if the company is acquired or undergoes a change of control?
+Question 24: What are the terms related to redemption rights?
+Question 25: What clauses outline any milestones or performance-based triggers?
+Question 26: What are the terms regarding employee stock option pool (ESOP)?
+Question 27: Are there any penalties or fees for breaching the term sheet?
+Question 28: What is the post-termination obligation for the founders and company?
+Question 29: What are the rights of co-sale or secondary sales?
+Question 30: What clauses outline the confidentiality and exclusivity terms?
+Question 31: Are there any provisions for the waiver of rights by investors?
+Question 32: What are the terms regarding the conversion of convertible securities?
+Question 33: Are there any clauses regarding indemnification of directors or investors?
+Question 34: What happens if there is a material adverse change (MAC)?
+Question 35: What is the duration of the exclusivity period?
+Question 36: Are there any provisions regarding expense reimbursement by the company?
+Question 37: What are the terms regarding control of intellectual property?
+Question 38: Are there any special rights given to lead investors or major shareholders?
+Question 39: Are there provisions regarding due diligence timelines?
+Question 40: Are there any clauses about the consequences of non-compliance with obligations?
