@@ -1,16 +1,17 @@
+
 import requests
 import os
 
 # Set your Perplexity API key
-# PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")  # Or set it manually
-PERPLEXITY_API_KEY = "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"
+PERPLEXITY_API_KEY = os.getenv("PERPLEXITY_API_KEY")  # Or set it manually
+
 
 def answer_question(question, context):
     try:
         url = "https://api.perplexity.ai/chat/completions"
 
         headers = {
-            "Authorization": f"Bearer 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",
+            "Authorization": f"Bearer {PERPLEXITY_API_KEY}",
             "Content-Type": "application/json"
         }
 
