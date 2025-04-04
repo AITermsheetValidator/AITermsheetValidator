@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Upload Term Sheet</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #0d0d15;
+            margin: 0;
+        }
+        .container {
+            text-align: center;
+            background: #d2c9c9;
+            padding: 50px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        .validate-btn, .download-btn {
+            background-color: #28a745;
+            color: #fff;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            margin-top: 10px;
+        }
+        .validate-btn:hover, .download-btn:hover {
+            background-color: #218838;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+        }
+        .download-btn {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Upload Your Term Sheet</h1>
+        <form id="uploadForm">
+            <input type="file" id="pdfFile" accept="application/pdf" required>
+            <br>
+            <button type="submit" class="validate-btn">Validate</button>
+        </form>
+        <div class="loading" id="loading">Processing...</div>
+        <button id="downloadBtn" class="download-btn">Download Risk Summary</button>
+    </div>
+</body>
+</html>
